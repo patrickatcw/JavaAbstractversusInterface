@@ -12,10 +12,13 @@ public class Penguin extends Bird{
     //step 33 override
     @Override
     public void fly() {
+        //step 42 call method
+        super.fly();
         System.out.println("I'm a penguin, not so good at flying");
+
+        //step 43 go back to main to run
 
 
         //step 34 to main
     }
 }
-
