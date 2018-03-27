@@ -69,6 +69,19 @@ public class Main {
 
         //step 21 to bird class to modify
 
+        //step 43 run again
+        /*
+        results;
+        Breate in, breathe out, repeat
+    Yorkie is eating
+    Breathe in, breathe out, repeat
+    Rican Tucan is pecking
+    Rican Tucan is flapping it's wings
+    Emperor is flapping it's wings
+    I'm a penguin, not so good at flying
+         */
+        //done
+
     }
 
 }
