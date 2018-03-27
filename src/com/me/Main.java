@@ -1,5 +1,7 @@
 package com.me;
 //continued from JavaAbstractClassesSimple
+//step 37 for this prograom AbstractvsInterface
+//create new interface CanFly
 public class Main {
 
     public static void main(String[] args) {
@@ -55,6 +57,9 @@ public class Main {
          */
         //done!
 
+        //step 37 for this prograom AbstractvsInterface
+        //create new interface CanFly
+
         //step 20 run
         /*
         results;
@@ -67,4 +72,15 @@ public class Main {
     }
 
 }
+
+/*
+summary of differences between abstract and interface
+abstract can have member variables that are inherited
+interface can have variables, but they are all public static final
+that never change with a public static scope
+interface can't have constructors
+all methods of an interface are automatically public
+methods of an abstract class can have any visibility
+no code in abstract methods
+ */
 
